@@ -1,0 +1,14 @@
+
+.header{
+    background-image: url(../img/banner-bg.png);
+    padding: 10px;
+    height: 10vh;
+}
+
+.header label i {
+    margin-top: 40px;
+}
+
+.header .navbar .list .nav {
+    margin-top: 100px;
+}
